@@ -1,0 +1,52 @@
+/* as8ar mn 640 */
+
+/* sm */
+@media (min-width: 300px) { 
+    .left2,.right2{
+        width: 100%;
+ }
+ .four{
+ display: block;
+    padding: 20px;
+  
+    width: 100%;
+}.insideabout{
+    display:block;
+   
+}
+
+}
+/* md */
+@media  (min-width: 768px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+    .left2,.right2{
+        width: auto;
+    }.four{
+        display: flex;
+        text-align: center;
+        padding: 20px;
+        justify-content: center;
+        width: 100%;
+    }.insideabout{
+        display: flex;
+        justify-content: center;
+        column-gap: 10px;
+        align-items: center;
+    
+    }
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}

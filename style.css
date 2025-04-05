@@ -1,0 +1,81 @@
+.container2{
+    padding: 20px;
+}
+.nav2{
+    display: flex;
+    justify-content: space-around;
+}
+.carousel-inner img{
+    height: 500px;
+}
+.right{
+    display: flex;
+    column-gap: 9px;
+}.second{
+    width: 100%;
+}
+/* .second{
+    background-image: url("imgs/673f572b42755f48fef10f07_Hero_1__1_.webp");
+} */
+.second img{
+    width: 100%;
+    height: 60vh;
+}
+.parts{
+    display: flex;
+    justify-content: center;
+    column-gap: 4px;
+    text-align: center;
+}.third{
+    text-align: center;
+    padding: 10px;
+}
+.part{
+    border: 2px solid gray;
+
+    background-color: #63E6BE;
+    padding: 50px;
+}
+.card-footer{
+    background-color: #63E6BE;
+ 
+}.last{
+color:rgba(128, 128, 128, 0.384)
+
+}
+.one{
+    display: flex;
+   
+}.four{ display: flex;
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+    width: 100%;
+}
+.one{
+    width: 100%;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+  
+}
+.one img{
+    width: 50px;
+    height: 50px;
+}.aboutme{
+    background-color: black;
+}.left3 img{
+    border-radius:50%;
+
+}.insideabout{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    align-items: center;
+
+}.aboutme p{
+  margin-left: 150px;
+}.icons{
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+}
